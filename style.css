@@ -185,11 +185,6 @@ body {
     align-items: center;
 }
 
-.ad-text {
-    display: flex;
-    flex-direction: column;
-}
-
 .ad-title {
     color: white;
     font-weight: bold;
@@ -198,7 +193,8 @@ body {
 
 .ad-text {
     color:white;
-
+    display: flex;
+    flex-direction: column;
 }
 
 .ad-button {
