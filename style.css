@@ -73,7 +73,7 @@ body {
     font-weight: 900;
 }
 
-.sign-up, .ad-button {
+.sign-up, .info-button {
     background-color: #3882f6;
     color: white;
     border-radius: 5px;
@@ -168,14 +168,14 @@ body {
     font-weight: bold;
 }
 
-.ad-section {
+.info-section {
     background-color: white;
     display: flex;
     justify-content: center;
     padding: 80px 0 80px;
 }
 
-.ad {
+.info {
     width: 800px;
     background-color: #3882f6;
     display: flex;
@@ -185,19 +185,19 @@ body {
     align-items: center;
 }
 
-.ad-title {
+.info-title {
     color: white;
     font-weight: bold;
     font-size: 20px;
 }
 
-.ad-text {
+.info-text {
     color:white;
     display: flex;
     flex-direction: column;
 }
 
-.ad-button {
+.info-button {
     margin-left: auto;
     border: 2px solid white;
     font-size: 15px;
